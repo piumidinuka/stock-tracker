@@ -1,9 +1,9 @@
  # Project Overview
 ## This application will:
-✅ Fetch live stock prices via an API
-✅ Display real-time updates using WebSockets
-✅ Show stock trends using charts
-✅ Allow users to search for stock symbols
+✅ Fetch live stock prices via an API <br/>
+✅ Display real-time updates using WebSockets  <br/>
+✅ Show stock trends using charts <br/>
+✅ Allow users to search for stock symbols <br/>
 
 ## 🚀 Tech Stack
 ### Frontend (React + TypeScript)
